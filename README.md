@@ -1,9 +1,15 @@
-## Hello, I'm Wagno and Welcome to my Github Profile!
+## Hi There! Welcome to my Github Profile!
 <div align="center">
   <a href="https://github.com/WagnoLeaoSergio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnoLeaoSergio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnoLeaoSergio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnoLeaoSergio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="abhisheknaiidu" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnoLeaoSergio&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://www.codewars.com/users/PARAVIDINO/">
+    <img align="center" alt="Wag-pic" height="50" style="border-radius:50px;" src="https://www.codewars.com/users/PARAVIDINO/badges/micro">
+  </a>
 </div>
+  
+### Programming Languages:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +18,9 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
+  
+### Frameworks/Technologies:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Wag-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -24,12 +33,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
-<div>
-  <a href="https://www.codewars.com/users/PARAVIDINO/">
-    <img align="right" alt="Wag-pic" height="50" style="border-radius:50px;" src="https://www.codewars.com/users/PARAVIDINO/badges/micro">
-  </a>
-</div>
-  
+
   ##
  
 <div>
